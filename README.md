@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://incredible-frangollo-c5a93c.netlify.app/
+https://calculator-macos.netlify.app
 
 A aplicação consiste em uma calculadora baseada na calculadora do sistema macOS, contendo funções de adição, subtração, divisão e multiplicação. 
 
